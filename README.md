@@ -12,9 +12,15 @@ Creamos el metodo sumar pasandole los parametros de los dos primeros elementos y
 
 A continuacion mostramos el resultado final 
 
+1 Elemento
+
 ![4 (2)](https://user-images.githubusercontent.com/71079322/94581768-0ed67e80-0241-11eb-9ca9-51b615c4c747.png)
 
+5 Elementos
+
 ![2 (2)](https://user-images.githubusercontent.com/71079322/94580244-4e03d000-023f-11eb-9c55-f1a8eb6d7863.png)
+
+20 Elementos 
 
 ![3 (2)](https://user-images.githubusercontent.com/71079322/94581120-501a5e80-0240-11eb-8bef-da12e1b8ffe5.png)
 
